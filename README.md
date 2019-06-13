@@ -1,4 +1,4 @@
-#calculadora espacial
+Calculadora Espacial
 
 Gracias al cambio de gravedad en distintos planetas, puedes pesar distinto que en la Tierra.
 
